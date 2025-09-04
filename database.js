@@ -6,7 +6,7 @@ const productsDB = [
     { name: "Arroz", image: "https://phygital-files.mercafacil.com/tartufo-bucket/uploads/produto/arroz_branco_500g_a7a5a198-f97f-42f6-aefb-062dc71fe9dd.png" },
     { name: "Feijão", image: "https://blog.epagri.sc.gov.br/wp-content/uploads/2023/06/predileto-feijao-epagri-2.jpg" },
     { name: "Macarrão", image: "https://minhasaude.proteste.org.br/wp-content/uploads/2020/11/tipos-de-macarrao.jpg" },
-    { name: "Carne", image: "https://minhasaude.proteste.org.br/wp-content/uploads/2020/11/tipos-de-macarrao.jpg" },
+    { name: "Carne", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkOmVTOdVCZ_EN3QB1Bq5XZQFu68ywHe39g&s" },
     { name: "Frango", image: "https://guiadacozinha.com.br/wp-content/uploads/2020/07/frango-assado-com-ervas.jpg" },
     { name: "Ovo", image: "https://acdn-us.mitiendanube.com/stores/002/296/660/products/ovo1-6b57de61281a3d3cf016841052104265-480-0.jpg" },
     { name: "Azeite", image: "https://boutiquedeorganicos.com.br/wp-content/uploads/2021/07/Azeite-de-Oliva-Extra-Virgem-Org.jpg" },
