@@ -1,12 +1,14 @@
-# Sua compra organizada
+# OrganizaE
 
 Este é um projeto simples e eficiente para organizar suas listas de compras, ajudando você a gerenciar seus itens de maneira prática e rápida. A aplicação permite adicionar, excluir e marcar itens como comprados, tudo em uma interface limpa e intuitiva.
 
 ## Funcionalidades
 
-* **Adicionar itens:** Inclua novos produtos na sua lista.
+* **Adicionar itens:** Inclua os produtos desejados na sua lista.
 * **Marcar como comprado:** Marque itens que você já pegou, organizando o que falta.
 * **Excluir itens:** Remova produtos da lista que não precisa mais.
+* **Adicione as Unidades/Pacotes/Kg/L:** Adicione a quantidade do item desejado.
+* **Zere:** Zere a lista ao fim de suas compras.
 
 ## Tecnologias usadas
 
